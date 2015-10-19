@@ -2,8 +2,8 @@
   "name" : "myFirstHTTPServer",
   "version" : "0.0.1",
   "dependencies": {
-    "http-server": "*"
-      "console-remote-client" "*"
+    "http-server": "*",
+      "console-remote-client": "*"
   },
   "main": "myFirstHTTPServer.js"
 }
